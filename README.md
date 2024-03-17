@@ -38,4 +38,4 @@ STEPS TO FOLLOW:
   4.2 day_name: Add this column to the database. Based on the date column, create this new column having the name of days.
   4.3 month_name: Add this column to the database. Based on the date column, create this new column having the name of months.
 
-For SQL queries, look up to WalmartSales.sql file
+For SQL queries, look up to WalmartAnalysis.sql file
