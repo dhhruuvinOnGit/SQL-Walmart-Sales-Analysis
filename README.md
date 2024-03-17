@@ -2,7 +2,7 @@ SQL WALMART SALES ANALYSIS
 
 DATASET LINK: https://github.com/dhhruuvinOnGit/SQL-Walmart-Sales-Analysis/blob/main/WalmartSalesData.csv
 
-DOCUMENT LINK: 
+DOCUMENT LINK: https://docs.google.com/document/d/1-PhTckK95RfOhsCfNAKoZDrEH7S31MPSKlIIND4amVM/edit?usp=sharing
 
 PROJECT OUTLINE:
 This project aims to analyze data of Walmart Store Sales based on understanding of branch, products, customer, and trends.
